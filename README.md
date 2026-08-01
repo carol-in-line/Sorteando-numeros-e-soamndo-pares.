@@ -1,4 +1,4 @@
-# Sorteando-numeros-e-soamndo-pares.
+# Sorteando-numeros-e-somando-pares.
 
 -------------Portugues------------
 
